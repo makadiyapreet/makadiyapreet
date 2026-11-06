@@ -124,12 +124,6 @@ class Preet:
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-## 🧭 `> git log --experience`
-
-<div align="center"><img src="assets/timeline.svg" width="100%" /></div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
-
 ## 📈 `> git log --stats`
 
 <div align="center">
