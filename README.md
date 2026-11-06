@@ -73,11 +73,12 @@ class Preet:
 ## 🛠️ `> ls ~/projects`
 
 <div align="center">
-<a href="https://github.com/makadiyapreet/AEGIS"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=makadiyapreet&repo=AEGIS&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/makadiyapreet/NETRA"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=makadiyapreet&repo=NETRA&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<br/>
-<a href="https://github.com/makadiyapreet/SentinelAI"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=makadiyapreet&repo=SentinelAI&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/makadiyapreet/RedForge"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=makadiyapreet&repo=RedForge&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+
+[![AEGIS](https://img.shields.io/badge/AEGIS-Honeypot_Platform-ff0040?style=for-the-badge&logo=github)](https://github.com/makadiyapreet/AEGIS)
+[![NETRA](https://img.shields.io/badge/NETRA-OSINT_Platform-7c3aed?style=for-the-badge&logo=github)](https://github.com/makadiyapreet/NETRA)
+[![SentinelAI](https://img.shields.io/badge/SentinelAI-ML_WAF-00ff9c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/makadiyapreet/SentinelAI)
+[![RedForge](https://img.shields.io/badge/RedForge-Exploit_Framework-0A66C2?style=for-the-badge&logo=github)](https://github.com/makadiyapreet/RedForge)
+
 </div>
 
 | Project | What it does |
@@ -117,7 +118,12 @@ class Preet:
 <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,bash,powershell,php,html,css&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,express,flutter,vite,bootstrap&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,aws,docker,git,github,netlify,vercel&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,numpy,pandas,matplotlib,powerbi,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,figma&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
 </details>
@@ -128,14 +134,9 @@ class Preet:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=makadiyapreet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makadiyapreet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" />
 
 <img src="https://streak-stats.demolab.com?user=makadiyapreet&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=makadiyapreet&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=makadiyapreet&theme=react-dark&hide_border=true&area=true&color=00ff9c&line=00ff9c&point=ffffff" width="95%" />
 
 </div>
 
