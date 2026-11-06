@@ -1,4 +1,3 @@
-# 🛡️ PREET MAKADIYA
 
 <div align="center">
 
