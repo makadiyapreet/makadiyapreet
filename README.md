@@ -1,105 +1,103 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff9c&height=220&section=header&text=Preet%20Makadiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20VAPT%20%7C%20Red%20Team%20%7C%20Full-Stack&descSize=20&descAlignY=60" width="100%" />
+<img src="assets/banner.svg" alt="Preet Makadiya" width="100%" />
 
-<a href="https://github.com/makadiyapreet">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40preet%3A~%23+whoami;3rd-year+B.Tech+CSE+%7C+GATE+CS+2026+qualified;I+break+web+apps+so+they+can+be+fixed;Building+WAFs%2C+honeypots+and+threat-intel+tools;VP+%7C+Society+of+Mathematics%2C+PDEU" alt="Typing SVG" />
-</a>
+<img src="assets/header.svg" alt="terminal intro" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-VAPT%20%26%20Red%20Team-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/VAPT-Red%20Team-ff0040?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/GATE%20CS-2026%20Qualified-00ff9c?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/PDEU-Gandhinagar-302b63?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Based%20in-Gujarat%2C%20India-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PDEU-Gandhinagar-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-8.73-0A66C2?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=makadiyapreet&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<a href="https://preetversex.netlify.app"><img src="https://img.shields.io/badge/Portfolio-preetversex.netlify.app-00ff9c?style=flat-square&logo=netlify&logoColor=black" /></a>
-<a href="https://linkedin.com/in/preet-makadiya-13102004-p/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/preet_1310_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="mailto:makadiyapreeta1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="assets/counters.svg" width="100%" />
+
+<br/>
+
+<a href="https://preetversex.netlify.app"><img src="https://img.shields.io/badge/Portfolio-preetversex.netlify.app-00ff9c?style=for-the-badge&logo=netlify&logoColor=black" /></a>
+<a href="https://linkedin.com/in/preet-makadiya-13102004-p/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/preet_1310_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:makadiyapreeta1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://github.com/makadiyapreet">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=780&lines=Web+App+Pentesting+%7C+API+Security+%7C+Red+Team;Building+WAFs%2C+honeypots+and+threat-intel+tools;GATE+CS+2026+%7C+National+Hackathon+Winner;VP+%E2%80%94+Society+of+Mathematics%2C+PDEU;Open+to+cybersecurity+internships" />
+</a>
+
+<img src="assets/divider.svg" width="100%" />
 
 </div>
 
----
+## 🎯 `> threat_model --me`
 
-## `> cat about.txt`
+<table>
+<tr>
+<td width="360" align="center"><img src="assets/radar.svg" width="340" alt="radar" /></td>
+<td valign="top">
 
 ```python
 class Preet:
-    role      = "Cybersecurity student | VAPT & Red Team"
-    university = "Pandit Deendayal Energy University (PDEU)"
-    cgpa      = 8.73
-    achievements = ["GATE CS 2026 qualified", "National hackathon winner", "VP, Society of Mathematics"]
-    currently = ["Web app exploitation & reporting", "ML-powered defense (WAF)", "Honeypots & threat intel"]
-    learning  = ["Advanced pentesting", "Deep learning for security", "Cloud security"]
-    open_to   = ["Cybersecurity internships", "Open-source security projects", "CTF teams"]
+    role        = "Cybersecurity student | VAPT & Red Team"
+    university  = "PDEU, Gandhinagar (B.Tech CSE)"
+    wins        = ["GATE CS 2026", "National hackathon", "VP, Society of Mathematics"]
+    attack      = ["Web apps", "REST APIs", "Auth & session flaws"]
+    defend      = ["ML-based WAF", "Honeypots", "Threat intel / OSINT"]
+    learning    = ["Advanced pentesting", "Deep learning", "Cloud security"]
+    open_to     = ["Internships", "CTF teams", "Open-source security"]
 
     def motto(self):
         return "Think like an attacker. Build like a defender."
 ```
 
----
-
-## `> ls ~/projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ AEGIS
-**Adaptive Enforcement & Guardian Intelligence System**
-Unified honeypot, logging and sandboxing platform for detecting and analysing attacker behaviour.
-
-`Python` `Honeypot` `Sandboxing` `Logging`
-
-[**→ View repo**](https://github.com/makadiyapreet/AEGIS)
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ NETRA
-Multilingual OSINT and cyber threat intelligence platform, built for a national hackathon problem statement.
-
-`Python` `OSINT` `NLP` `Threat Intel`
-
-[**→ View repo**](https://github.com/makadiyapreet/NETRA)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 SentinelAI
-ML-powered Web Application Firewall that classifies malicious requests and blocks attacks like SQLi and XSS.
-
-`Python` `scikit-learn` `FastAPI` `WAF`
-
-[**→ View repo**](https://github.com/makadiyapreet/SentinelAI)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚔️ RedForge
-Automated web app exploitation and reporting framework: scan, exploit, and generate pentest reports.
-
-`Python` `VAPT` `Automation` `Reporting`
-
-[**→ View repo**](https://github.com/makadiyapreet/RedForge)
-
 </td>
 </tr>
 </table>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-## `> ./skills --list`
+## ⚔️ `> ./methodology --kill-chain`
+
+<div align="center"><img src="assets/killchain.svg" width="100%" /></div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+## 📡 `> nmap -sV preetversex`
+
+<div align="center"><img src="assets/scan.svg" width="100%" /></div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+## 🛠️ `> ls ~/projects`
+
+<div align="center">
+<a href="https://github.com/makadiyapreet/AEGIS"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=makadiyapreet&repo=AEGIS&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/makadiyapreet/NETRA"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=makadiyapreet&repo=NETRA&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<br/>
+<a href="https://github.com/makadiyapreet/SentinelAI"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=makadiyapreet&repo=SentinelAI&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/makadiyapreet/RedForge"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=makadiyapreet&repo=RedForge&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+</div>
+
+| Project | What it does |
+|---|---|
+| 🛡️ **AEGIS** | Unified honeypot, logging and sandboxing platform to trap and analyse attackers |
+| 👁️ **NETRA** | Multilingual OSINT and cyber threat intelligence platform (hackathon build) |
+| 🧠 **SentinelAI** | ML-powered Web Application Firewall that blocks SQLi, XSS and more |
+| ⚔️ **RedForge** | Automated web app exploitation and pentest report framework |
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+## 📊 `> ./skills --level`
 
 <div align="center">
 
-**Offensive & Defensive Security**
+<img src="assets/skills.svg" width="720" alt="skills" />
+
+<br/><br/>
+
+**Security Toolbelt**
 
 ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -109,71 +107,76 @@ Automated web app exploitation and reporting framework: scan, exploit, and gener
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,bash,powershell,php,html,css&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,express,flutter&theme=dark" />
-
-**Data, ML & Cloud**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,aws,docker,git,github&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,powerbi&theme=dark" />
-
 </div>
 
----
+<details>
+<summary><b>💻 Full tech stack (click to expand)</b></summary>
+<br/>
+<div align="center">
 
-## `> git log --stats`
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,bash,powershell,php,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,express,flutter,vite,bootstrap&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,aws,docker,git,github,netlify,vercel&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,numpy,pandas,matplotlib,powerbi,figma&theme=dark" />
+
+</div>
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+## 🧭 `> git log --experience`
+
+<div align="center"><img src="assets/timeline.svg" width="100%" /></div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+## 📈 `> git log --stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=makadiyapreet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makadiyapreet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=makadiyapreet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makadiyapreet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" />
 
-<img src="https://streak-stats.demolab.com?user=makadiyapreet&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=makadiyapreet&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=makadiyapreet&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=makadiyapreet&theme=react-dark&hide_border=true&area=true&color=00ff9c&line=00ff9c&point=ffffff" width="95%" />
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-## `> ./snake.sh`
+## 🐍 `> ./snake.sh`
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake-dark.svg" />
 </picture>
-
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-## `> cat achievements.log`
+## 🏆 `> cat achievements.log`
 
 | | |
 |---|---|
 | 🏆 | National hackathon winner |
 | 🎓 | GATE CS 2026 qualified |
 | 📐 | Vice President, Society of Mathematics, PDEU |
-| 🔴 | Red Team Assessment and VAPT internships |
-| 🛠️ | Built WAF, honeypot, OSINT and exploitation tooling from scratch |
+| 🔴 | Red Team assessment and VAPT internships |
+| 🛠️ | Built a WAF, honeypot, OSINT and exploitation tooling from scratch |
 
----
+## 🤝 `> ping collaboration`
 
-## `> ping collaboration`
-
-> 🤝 Open to **cybersecurity internships**, **open-source security projects** and **CTF teams**.
-> 💬 Ask me about: **VAPT, WAFs, honeypots, SIEM, OWASP Top 10, Django, FastAPI, REST API security**.
+> Open to **cybersecurity internships**, **open-source security projects** and **CTF teams**.
+> Ask me about **VAPT, WAFs, honeypots, SIEM, OWASP Top 10, Django, FastAPI, API security**.
 
 <div align="center">
 
-```text
-"Security is not a product, it's a process."
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&lines=%22Security+is+not+a+product%2C+it's+a+process.%22" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
