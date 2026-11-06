@@ -1,15 +1,180 @@
-# 💫 About Me:
-🔭 I'm currently working on AI-powered web apps, cybersecurity tools, and data-driven full-stack platforms.<br>👯 I'm looking to collaborate on open-source projects in cybersecurity, full-stack development, and ML integration.<br>🤝 I'm looking for help with cloud deployment, scalable system design, and geospatial/environmental data pipelines.<br>🌱 I'm currently learning deep learning, generative AI, penetration testing, and advanced backend architecture.<br>💬 Ask me about Python, FastAPI, Django, React, PostgreSQL, WAFs, SIEM systems, and REST APIs.<br>⚡ Fun fact: I qualified GATE, won a national hackathon, and somehow also VP of my university's Math Society — debugging life one commit at a time! 😄
+<!-- HEADER -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff9c&height=220&section=header&text=Preet%20Makadiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20VAPT%20%7C%20Red%20Team%20%7C%20Full-Stack&descSize=20&descAlignY=60" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preet_1310_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-makadiya-13102004-p/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:makadiyapreeta1@gmail.com) 
+<a href="https://github.com/makadiyapreet">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40preet%3A~%23+whoami;3rd-year+B.Tech+CSE+%7C+GATE+CS+2026+qualified;I+break+web+apps+so+they+can+be+fixed;Building+WAFs%2C+honeypots+and+threat-intel+tools;VP+%7C+Society+of+Mathematics%2C+PDEU" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=makadiyapreet&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=makadiyapreet&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=makadiyapreet&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/badge/Focus-VAPT%20%26%20Red%20Team-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/GATE%20CS-2026%20Qualified-00ff9c?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/PDEU-Gandhinagar-302b63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Based%20in-Gujarat%2C%20India-orange?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://preetversex.netlify.app"><img src="https://img.shields.io/badge/Portfolio-preetversex.netlify.app-00ff9c?style=flat-square&logo=netlify&logoColor=black" /></a>
+<a href="https://linkedin.com/in/preet-makadiya-13102004-p/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/preet_1310_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:makadiyapreeta1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+## `> cat about.txt`
+
+```python
+class Preet:
+    role      = "Cybersecurity student | VAPT & Red Team"
+    university = "Pandit Deendayal Energy University (PDEU)"
+    cgpa      = 8.73
+    achievements = ["GATE CS 2026 qualified", "National hackathon winner", "VP, Society of Mathematics"]
+    currently = ["Web app exploitation & reporting", "ML-powered defense (WAF)", "Honeypots & threat intel"]
+    learning  = ["Advanced pentesting", "Deep learning for security", "Cloud security"]
+    open_to   = ["Cybersecurity internships", "Open-source security projects", "CTF teams"]
+
+    def motto(self):
+        return "Think like an attacker. Build like a defender."
+```
+
+---
+
+## `> ls ~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AEGIS
+**Adaptive Enforcement & Guardian Intelligence System**
+Unified honeypot, logging and sandboxing platform for detecting and analysing attacker behaviour.
+
+`Python` `Honeypot` `Sandboxing` `Logging`
+
+[**→ View repo**](https://github.com/makadiyapreet/AEGIS)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ NETRA
+Multilingual OSINT and cyber threat intelligence platform, built for a national hackathon problem statement.
+
+`Python` `OSINT` `NLP` `Threat Intel`
+
+[**→ View repo**](https://github.com/makadiyapreet/NETRA)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 SentinelAI
+ML-powered Web Application Firewall that classifies malicious requests and blocks attacks like SQLi and XSS.
+
+`Python` `scikit-learn` `FastAPI` `WAF`
+
+[**→ View repo**](https://github.com/makadiyapreet/SentinelAI)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ RedForge
+Automated web app exploitation and reporting framework: scan, exploit, and generate pentest reports.
+
+`Python` `VAPT` `Automation` `Reporting`
+
+[**→ View repo**](https://github.com/makadiyapreet/RedForge)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ./skills --list`
+
+<div align="center">
+
+**Offensive & Defensive Security**
+
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,bash,powershell,php,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,express,flutter&theme=dark" />
+
+**Data, ML & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,aws,docker,git,github&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,powerbi&theme=dark" />
+
+</div>
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=makadiyapreet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makadiyapreet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=makadiyapreet&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=makadiyapreet&theme=react-dark&hide_border=true&area=true&color=00ff9c&line=00ff9c&point=ffffff" width="95%" />
+
+</div>
+
+---
+
+## `> ./snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `> cat achievements.log`
+
+| | |
+|---|---|
+| 🏆 | National hackathon winner |
+| 🎓 | GATE CS 2026 qualified |
+| 📐 | Vice President, Society of Mathematics, PDEU |
+| 🔴 | Red Team Assessment and VAPT internships |
+| 🛠️ | Built WAF, honeypot, OSINT and exploitation tooling from scratch |
+
+---
+
+## `> ping collaboration`
+
+> 🤝 Open to **cybersecurity internships**, **open-source security projects** and **CTF teams**.
+> 💬 Ask me about: **VAPT, WAFs, honeypots, SIEM, OWASP Top 10, Django, FastAPI, REST API security**.
+
+<div align="center">
+
+```text
+"Security is not a product, it's a process."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+</div>
