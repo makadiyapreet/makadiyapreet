@@ -2,214 +2,186 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Preet Makadiya"/>
+<img src="assets/banner.svg" alt="Preet Makadiya" width="100%" />
 
-<img src="assets/header.svg" width="100%" alt="Terminal introduction"/>
+<img src="assets/header.svg" alt="terminal intro" width="100%" />
 
-### ALL-ROUND CYBERSECURITY ENGINEER
+<br/>
 
-**Think Like an Attacker. Build Like a Defender.**
+<img src="https://img.shields.io/badge/VAPT-Red%20Team-ff0040?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/GATE%20CS-2026%20Qualified-00ff9c?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/PDEU-Gandhinagar-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-8.73-0A66C2?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=makadiyapreet&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" />
 
-[![VAPT](https://img.shields.io/badge/VAPT-Penetration_Testing-ff0040?style=for-the-badge)](https://github.com/makadiyapreet)
-[![AI Security](https://img.shields.io/badge/AI-SECURITY-7c3aed?style=for-the-badge)](https://github.com/makadiyapreet)
-[![Blue Team](https://img.shields.io/badge/BLUE-TEAM-00ff9c?style=for-the-badge)](https://github.com/makadiyapreet)
-[![GATE](https://img.shields.io/badge/GATE_CS-2026_Qualified-0A66C2?style=for-the-badge)](https://github.com/makadiyapreet)
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff9c?style=for-the-badge&logo=netlify&logoColor=black)](https://preetversex.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/preet-makadiya-13102004-p/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:makadiyapreeta1@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=makadiyapreet&style=for-the-badge&color=00ff9c)](https://github.com/makadiyapreet)
+<img src="assets/counters.svg" width="100%" />
 
-<img src="assets/divider.svg" width="100%"/>
+<br/>
+
+<a href="https://preetversex.netlify.app"><img src="https://img.shields.io/badge/Portfolio-preetversex.netlify.app-00ff9c?style=for-the-badge&logo=netlify&logoColor=black" /></a>
+<a href="https://linkedin.com/in/preet-makadiya-13102004-p/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/preet_1310_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:makadiyapreeta1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://github.com/makadiyapreet">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=780&lines=Web+App+Pentesting+%7C+API+Security+%7C+Red+Team;Building+WAFs%2C+honeypots+and+threat-intel+tools;GATE+CS+2026+%7C+National+Hackathon+Winner;VP+%E2%80%94+Society+of+Mathematics%2C+PDEU;Open+to+cybersecurity+internships" />
+</a>
+
+<img src="assets/divider.svg" width="100%" />
 
 </div>
 
-## 🎯 `> whoami`
+## 🎯 `> threat_model --me`
+
+<table>
+<tr>
+<td width="360" align="center"><img src="assets/radar.svg" width="340" alt="radar" /></td>
+<td valign="top">
 
 ```python
-class PreetMakadiya:
-
-    role = "Cybersecurity Engineer"
-    education = "B.Tech Cybersecurity | PDEU"
-
-    domains = [
-        "Offensive Security & VAPT",
-        "Application & API Security",
-        "Blue Team & Threat Detection",
-        "Network & Cloud Security",
-        "AI/ML for Cybersecurity",
-        "Security Automation"
-    ]
-
-    building = [
-        "Intelligent security tools",
-        "Automated vulnerability detection",
-        "Threat monitoring systems",
-        "Secure applications"
-    ]
-
-    interests = [
-        "Red Team Operations",
-        "SOC & Incident Response",
-        "Security Research",
-        "Open Source Security"
-    ]
+class Preet:
+    role        = "Cybersecurity student | VAPT & Red Team"
+    university  = "PDEU, Gandhinagar (B.Tech CSE)"
+    wins        = ["GATE CS 2026", "National hackathon", "VP, Society of Mathematics"]
+    attack      = ["Web apps", "REST APIs", "Auth & session flaws"]
+    defend      = ["ML-based WAF", "Honeypots", "Threat intel / OSINT"]
+    learning    = ["Advanced pentesting", "Deep learning", "Cloud security"]
+    open_to     = ["Internships", "CTF teams", "Open-source security"]
 
     def motto(self):
         return "Think like an attacker. Build like a defender."
 ```
 
-## ⚔️ `> security_domains --all`
+</td>
+</tr>
+</table>
 
-| Domain | Focus |
-|---|---|
-| 🔴 Offensive Security | VAPT, Web/API Pentesting, OWASP Top 10 |
-| 🟢 Defensive Security | Threat Detection, Monitoring, Incident Response |
-| 🔵 Network Security | Network Analysis, Traffic Inspection, Firewalls |
-| 🟣 Application Security | Secure Coding, SAST, DAST, API Security |
-| 🧠 AI Security | ML-based Detection, Classification, Security Automation |
-| ☁️ Cloud Security | AWS, Linux, Infrastructure Security |
-| 🔬 Digital Forensics | Evidence Analysis, Investigation, Forensics Tools |
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-## 🚀 `> ls ~/featured-projects`
+## ⚔️ `> ./methodology --kill-chain`
 
-### 01. SecuraX — AI-Powered Code Security
+<div align="center"><img src="assets/killchain.svg" width="100%" /></div>
 
-**Focus:** Application Security | Machine Learning | Secure Coding
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-Automated code vulnerability detection, multi-class CWE classification, severity scoring and code refinement.
+## 📡 `> nmap -sV preetversex`
 
-- Binary vulnerability detection
-- CWE classification
-- Severity prediction
-- Code refinement
+<div align="center"><img src="assets/scan.svg" width="100%" /></div>
 
-### 02. AEGIS — Intelligent Honeypot Platform
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-**Focus:** Blue Team | Threat Intelligence | Network Security
-
-A honeypot and monitoring platform designed to capture suspicious activity, analyze attacker behavior and support security investigations.
-
-[Repository](https://github.com/makadiyapreet/AEGIS)
-
-### 03. RedForge — Automated Security Testing
-
-**Focus:** Red Team | Penetration Testing | Automation
-
-Automated web application security testing and penetration-testing report generation.
-
-[Repository](https://github.com/makadiyapreet/RedForge)
-
-### 04. SentinelAI — ML-Powered Web Application Firewall
-
-**Focus:** Application Security | AI/ML | Defensive Security
-
-Machine-learning-powered web application protection against common web attacks, including SQL injection and XSS.
-
-[Repository](https://github.com/makadiyapreet/SentinelAI)
-
-### 05. NETRA — Regional Language OSINT Platform
-
-**Focus:** OSINT | Threat Intelligence | Data Analysis
-
-A multilingual intelligence platform for collecting, analyzing and monitoring open-source information.
-
-[Repository](https://github.com/makadiyapreet/NETRA)
-
-### 06. PayGuard — Financial Security Platform
-
-**Focus:** Financial Application Security | Software Engineering
-
-A security-oriented financial application project involving payment-related workflows and application development.
-
-[Repository](https://github.com/makadiyapreet/PayGuard)
-
-### Additional Project
-
-**ARGUS — ESP32-Based Wireless Security Monitoring**
-
-Focus: IoT Security | Wireless Monitoring | Embedded Systems.
-
-> Add a repository link, architecture diagram and demonstration once the project is ready for public presentation.
-
-## 🛠️ `> skills --list`
-
-### Programming & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Security & Penetration Testing
-
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux)
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
-
-### AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-### Cloud, Infrastructure & Databases
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-## 🎓 `> education --achievements`
-
-- B.Tech Cybersecurity — Pandit Deendayal Energy University (PDEU)
-- GATE CS 2026 Qualified
-- National Hackathon Winner
-- Vice President — Society of Mathematics, PDEU
-
-## 🔬 `> currently_building`
-
-- AI-assisted source-code vulnerability detection.
-- Automated security testing and reporting.
-- Threat intelligence and monitoring systems.
-- Application and API security research.
-
-## 📊 `> git log --stats`
+## 🛠️ `> ls ~/projects`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=makadiyapreet&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=makadiyapreet&theme=tokyonight&hide_border=true"/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makadiyapreet&layout=compact&theme=tokyonight&hide_border=true"/>
+[![AEGIS](https://img.shields.io/badge/AEGIS-Honeypot_Platform-ff0040?style=for-the-badge&logo=github)](https://github.com/makadiyapreet/AEGIS)
+[![SentinelAI](https://img.shields.io/badge/SentinelAI-ML_WAF-00ff9c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/makadiyapreet/SentinelAI)
+[![RedForge](https://img.shields.io/badge/RedForge-Exploit_Framework-0A66C2?style=for-the-badge&logo=github)](https://github.com/makadiyapreet/RedForge)
+[![NETRA](https://img.shields.io/badge/NETRA-OSINT_Platform-7c3aed?style=for-the-badge&logo=github)](https://github.com/makadiyapreet/NETRA)
+[![ArgusShield](https://img.shields.io/badge/ArgusShield-IoT_Security-ff6633?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/makadiyapreet/ArgusShield)
+[![SecuraX](https://img.shields.io/badge/SecuraX-Code_Vuln_Detection-e11d48?style=for-the-badge&logo=github)](https://github.com/makadiyapreet/SecuraX)
+[![PayGuard](https://img.shields.io/badge/PayGuard-Cross--Chain_Bridge-627eea?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/makadiyapreet/PayGuard)
 
 </div>
 
-## 🤝 `> ping collaboration`
+| Project | What it does |
+|---|---|
+| 🛡️ [**AEGIS**](https://github.com/makadiyapreet/AEGIS) | Unified platform with tamper-evident logging, secure code sandboxing and honeypot-based threat detection |
+| 🧠 [**SentinelAI**](https://github.com/makadiyapreet/SentinelAI) | AI-powered Web Application Firewall with ML anomaly detection and full OWASP Top 10 protection |
+| ⚔️ [**RedForge**](https://github.com/makadiyapreet/RedForge) | Automated web app exploitation and pentest report framework |
+| 👁️ [**NETRA**](https://github.com/makadiyapreet/NETRA) | Multilingual OSINT and cyber threat intelligence platform (hackathon build) |
+| 📡 [**ArgusShield**](https://github.com/makadiyapreet/ArgusShield) | ESP32-based IoT security demo: real-time threat detection, zero-trust MQTT monitoring, forensic logging and relay-based device isolation |
+| 🔍 [**SecuraX**](https://github.com/makadiyapreet/SecuraX) | AI-powered source code vulnerability detection with CWE classification and severity scoring |
+| 🔗 [**PayGuard**](https://github.com/makadiyapreet/PayGuard) | Solidity cross-chain payment bridge with multi-sig guardians, invariant protection and fraud detection |
+| 🎓 [**Gate-Masters**](https://github.com/makadiyapreet/Gate-Masters) | Full-stack GATE CS prep platform (Django, React, JWT) with quizzes, mock tests and leaderboard |
 
-Open to:
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-- Cybersecurity engineering opportunities.
-- VAPT and application security projects.
-- Blue Team and SOC opportunities.
-- AI/ML cybersecurity research.
-- Open-source security collaborations.
-
-**Let's build something secure.**
+## 📊 `> ./skills --level`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Think+Like+an+Attacker.;Build+Like+a+Defender.;Engineer+Security.+Not+Just+Tools."/>
+<img src="assets/skills.svg" width="720" alt="skills" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+**Security Toolbelt**
+
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>💻 Full tech stack (click to expand)</b></summary>
+<br/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,bash,powershell,php,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,express,flutter,vite,bootstrap&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,aws,docker,git,github,netlify,vercel&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,figma&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+## 📈 `> git log --stats`
+
+<div align="center">
+
+
+<img src="https://streak-stats.demolab.com?user=makadiyapreet&theme=tokyonight&hide_border=true&border_radius=12" />
+
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+## 🐍 `> ./snake.sh`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/makadiyapreet/makadiyapreet/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+## 🏆 `> cat achievements.log`
+
+| | |
+|---|---|
+| 🏆 | National hackathon winner |
+| 🎓 | GATE CS 2026 qualified |
+| 📐 | Vice President, Society of Mathematics, PDEU |
+| 🔴 | Red Team assessment and VAPT internships |
+| 🛠️ | Built a WAF, honeypot, OSINT and exploitation tooling from scratch |
+
+## 🤝 `> ping collaboration`
+
+> Open to **cybersecurity internships**, **open-source security projects** and **CTF teams**.
+> Ask me about **VAPT, WAFs, honeypots, SIEM, OWASP Top 10, Django, FastAPI, API security**.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&lines=%22Security+is+not+a+product%2C+it's+a+process.%22" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
 </div>
